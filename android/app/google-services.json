@@ -1,0 +1,183 @@
+{
+  "project_info": {
+    "project_number": "1097187599092",
+    "firebase_url": "https://tumia-d34ec.firebaseio.com",
+    "project_id": "tumia-d34ec",
+    "storage_bucket": "tumia-d34ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097187599092:android:42b8223cfc8b2e190234a1",
+        "android_client_info": {
+          "package_name": "app.tumiapesa.tumiapesa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097187599092-53q8itpfk2nunvus30bu6kg4ckatpe8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.tumiapesa.tumiapesa",
+            "certificate_hash": "1c16a341a88cb9bed578dedfcf039e6ec1abc3de"
+          }
+        },
+        {
+          "client_id": "1097187599092-bqr9hctmhiepba50gb6e3nielcjlavd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJfqSh0fKJKyu7GT-PEK4cGhhb1XC5rtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097187599092-bqr9hctmhiepba50gb6e3nielcjlavd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097187599092:android:e653fe163cd05ed10234a1",
+        "android_client_info": {
+          "package_name": "com.tumia.pesa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097187599092-g7au7re2djqbkgs3e7shniv5r8npaleq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tumia.pesa",
+            "certificate_hash": "1c16a341a88cb9bed578dedfcf039e6ec1abc3de"
+          }
+        },
+        {
+          "client_id": "1097187599092-bqr9hctmhiepba50gb6e3nielcjlavd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJfqSh0fKJKyu7GT-PEK4cGhhb1XC5rtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097187599092-bqr9hctmhiepba50gb6e3nielcjlavd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097187599092:android:a5d3444692c5f6a80234a1",
+        "android_client_info": {
+          "package_name": "com.tumia.pesa_pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097187599092-5s53qs0rpledltgadfn8pujsbj0e1cjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tumia.pesa_pay",
+            "certificate_hash": "2bf439d7701ad9ab41c6629263dcaabf05feaa02"
+          }
+        },
+        {
+          "client_id": "1097187599092-7ecgvkk4ff7slhd8k6maca6mb02o3v8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tumia.pesa_pay",
+            "certificate_hash": "1c16a341a88cb9bed578dedfcf039e6ec1abc3de"
+          }
+        },
+        {
+          "client_id": "1097187599092-kngfa0a7327ekrt8c7t3sctlc3bsb50u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tumia.pesa_pay",
+            "certificate_hash": "02360b8047b7b5cac4d4b38bd896af9c1233c03c"
+          }
+        },
+        {
+          "client_id": "1097187599092-bqr9hctmhiepba50gb6e3nielcjlavd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJfqSh0fKJKyu7GT-PEK4cGhhb1XC5rtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097187599092-bqr9hctmhiepba50gb6e3nielcjlavd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097187599092:android:2673a6755e56b2990234a1",
+        "android_client_info": {
+          "package_name": "com.tumia.retail_pesa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097187599092-n1gn9f14kmohinnaea37v98fri3feu57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tumia.retail_pesa",
+            "certificate_hash": "1c16a341a88cb9bed578dedfcf039e6ec1abc3de"
+          }
+        },
+        {
+          "client_id": "1097187599092-uqkkhj1648inphrfg5rf5mpg8gr5k6o7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tumia.retail_pesa",
+            "certificate_hash": "3173efbd9f9d6ac754679c1a7d92970b166686f1"
+          }
+        },
+        {
+          "client_id": "1097187599092-bqr9hctmhiepba50gb6e3nielcjlavd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJfqSh0fKJKyu7GT-PEK4cGhhb1XC5rtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097187599092-bqr9hctmhiepba50gb6e3nielcjlavd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

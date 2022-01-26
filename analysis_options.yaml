@@ -1,0 +1,24 @@
+include: package:lint/analysis_options.yaml
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+  language:
+
+  errors:
+    missing_required_param: error
+    todo: info
+linter:
+  rules:
+    always-specify-types: true
+    prefer-relative-imports: true
+    avoid_types_on_closure_parameters: false
+    curly_braces_in_flow_control_structures: false
+    unnecessary_parenthesis: false
+    constant_identifier_names: false
+    sort_pub_dependencies: false
+    prefer_const_constructors: false
+    prefer_const_constructors_in_immutables: false
+    prefer_constructors_over_static_methods: false
+    avoid_classes_with_only_static_members: false
+    avoid_function_literals_in_foreach_calls: false
+    prefer_generic_function_type_aliases: false
